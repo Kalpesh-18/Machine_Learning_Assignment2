@@ -23,7 +23,7 @@ test_df = X_test.copy()
 test_df["Class"] = y_test
 
 train_df.to_csv("data/train.csv", index=False)
-test_df.to_csv("test_data.csv", index=False)
+test_df.to_csv("data/test_data.csv", index=False)
 
 print("train shape:", train_df.shape)
 print("test shape:", test_df.shape)
