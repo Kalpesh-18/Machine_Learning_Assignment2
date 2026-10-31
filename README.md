@@ -1,1 +1,9 @@
 # Machine_Learning_Assignment2
+
+| ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
+|---|---|---|---|---|---|---|
+| Logistic Regression | 0.9192 | 0.9947 | 0.9307 | 0.93 | 0.9302 | 0.9023 |
+| Decision Tree | 0.8944 | 0.9783 | 0.9075 | 0.907 | 0.9071 | 0.8724 |
+| KNN | 0.9188 | 0.991 | 0.9328 | 0.9293 | 0.9306 | 0.9018 |
+| Naive Bayes | 0.897 | 0.9911 | 0.9081 | 0.9082 | 0.9072 | 0.8762 |
+| Support Vector Machine | 0.921 | 0.9945 | 0.9342 | 0.9317 | 0.9328 | 0.9045 |
