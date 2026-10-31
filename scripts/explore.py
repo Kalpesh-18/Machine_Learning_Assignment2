@@ -1,7 +1,7 @@
 import pandas as pd
+from config import RAW_DATA, TRAIN_CSV, TEST_CSV
 
-# change the filename if yours is different
-df = pd.read_excel("/home/s2026aj05468/ML Assignment 2/Machine_Learning_Assignment2/data/DryBeanDataset/Dry_Bean_Dataset.xlsx")
+df = pd.read_excel(RAW_DATA)
 
 print("shape:", df.shape)
 print()
