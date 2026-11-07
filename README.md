@@ -2,7 +2,7 @@
 
 # Dry Bean Classification
 
-Live app: 
+Live app: https://machinelearningassignment2-ole6bacm8ankyzpkymwjpa.streamlit.app/
 
 ## a. Problem statement
 
