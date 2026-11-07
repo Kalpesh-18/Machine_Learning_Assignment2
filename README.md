@@ -2,7 +2,7 @@
 
 # Dry Bean Classification
 
-Live app: LIVE_APP_LINK_HERE
+Live app: 
 
 ## a. Problem statement
 
